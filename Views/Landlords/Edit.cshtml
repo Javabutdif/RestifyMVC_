@@ -1,0 +1,54 @@
+﻿@model Restify.Models.Landlord
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Landlord</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="landlord_id" />
+            <div class="form-group">
+                <label asp-for="landlord_firstname" class="control-label"></label>
+                <input asp-for="landlord_firstname" class="form-control" />
+                <span asp-validation-for="landlord_firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_lastname" class="control-label"></label>
+                <input asp-for="landlord_lastname" class="form-control" />
+                <span asp-validation-for="landlord_lastname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_email" class="control-label"></label>
+                <input asp-for="landlord_email" class="form-control" />
+                <span asp-validation-for="landlord_email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_contact" class="control-label"></label>
+                <input asp-for="landlord_contact" class="form-control" />
+                <span asp-validation-for="landlord_contact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_password" class="control-label"></label>
+                <input asp-for="landlord_password" class="form-control" />
+                <span asp-validation-for="landlord_password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,53 @@
+﻿@model Restify.Models.Landlord
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Landlord</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="landlord_firstname" class="control-label">First Name</label>
+                <input asp-for="landlord_firstname" class="form-control" />
+                <span asp-validation-for="landlord_firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_lastname" class="control-label">Last Name</label>
+                <input asp-for="landlord_lastname" class="form-control" />
+                <span asp-validation-for="landlord_lastname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_email" class="control-label">Email</label>
+                <input asp-for="landlord_email" type="email" class="form-control" />
+                <span asp-validation-for="landlord_email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_contact" class="control-label">Contact</label>
+                <input asp-for="landlord_contact"  class="form-control" />
+                <span asp-validation-for="landlord_contact" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="landlord_password" class="control-label">Password</label>
+                <input asp-for="landlord_password" type="password" class="form-control" />
+                <span asp-validation-for="landlord_password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
