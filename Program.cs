@@ -1,7 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using MvcLandlord.Data;
+using MvcApartment.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<MvcApartmentContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MvcApartmentContext") ?? throw new InvalidOperationException("Connection string 'MvcApartmentContext' not found.")));
 
 builder.Services.AddDbContext<MvcLandlordContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MvcLandlordContext") ?? throw new InvalidOperationException("Connection string 'MvcLandlordContext' not found.")));

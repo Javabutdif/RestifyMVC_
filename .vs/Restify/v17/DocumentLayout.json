@@ -3,48 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:controllers\\apartmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\apartments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\apartments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\controllers\\landlordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:controllers\\landlordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\models\\landlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:models\\landlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\user\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\landlords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\landlords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\landlords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\landlords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\landlords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\landlords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\landlords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\landlords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\landlords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\landlords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\controllers\\landlordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:controllers\\landlordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\models\\landlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:models\\landlord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\migrations\\20240504124839_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:migrations\\20240504124839_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|c:\\users\\james\\onedrive\\desktop\\restifymvc\\restify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B64FAE57-52DF-431D-AA5A-231087991881}|Restify.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +102,243 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Apartments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Apartments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Apartments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Apartments\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T18:10:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\ApartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApartmentsController.cs",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\ApartmentsController.cs",
+              "RelativeToolTip": "Controllers\\ApartmentsController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowE0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T18:09:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Models\\Apartment.cs",
+              "RelativeDocumentMoniker": "Models\\Apartment.cs",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Models\\Apartment.cs",
+              "RelativeToolTip": "Models\\Apartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:51:22.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-04T17:43:55.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Landlords\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Landlords\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:49:34.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T12:58:21.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAC3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:54:16.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\User\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\User\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\User\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:36:41.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Landlords\\Details.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Details.cshtml",
+              "RelativeToolTip": "Views\\Landlords\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:49:40.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Landlords\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Landlords\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:49:45.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Landlords\\Create.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Create.cshtml",
+              "RelativeToolTip": "Views\\Landlords\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:49:50.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Landlords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Landlords\\Index.cshtml",
+              "RelativeToolTip": "Views\\Landlords\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T15:59:37.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:30:16.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T14:29:03.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T16:10:26.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T12:47:19.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Landlord.cs",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Models\\Landlord.cs",
+              "RelativeDocumentMoniker": "Models\\Landlord.cs",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Models\\Landlord.cs",
+              "RelativeToolTip": "Models\\Landlord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:42:58.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LandlordsController.cs",
+              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\LandlordsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LandlordsController.cs",
+              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\LandlordsController.cs",
+              "RelativeToolTip": "Controllers\\LandlordsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:46:45.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Home\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
@@ -71,97 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\User\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\User\\Dashboard.cshtml",
-              "RelativeToolTip": "Views\\User\\Dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T14:36:41.904Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAwwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:30:16.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T14:29:03.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAABwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-04T12:47:19.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LandlordsController.cs",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\LandlordsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LandlordsController.cs",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\LandlordsController.cs",
-              "RelativeToolTip": "Controllers\\LandlordsController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAwwB4AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:46:45.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Landlord.cs",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Models\\Landlord.cs",
-              "RelativeDocumentMoniker": "Models\\Landlord.cs",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Models\\Landlord.cs",
-              "RelativeToolTip": "Models\\Landlord.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:42:58.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T12:58:21.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 19,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -169,11 +359,12 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:38:43.441Z"
+              "WhenOpened": "2024-05-04T14:38:43.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "20240504124839_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Migrations\\20240504124839_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20240504124839_InitialCreate.cs",
@@ -181,19 +372,8 @@
               "RelativeToolTip": "Migrations\\20240504124839_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:48:39.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:54:16.48Z"
+              "WhenOpened": "2024-05-04T12:48:39.576Z",
+              "EditorCaption": ""
             }
           ]
         }

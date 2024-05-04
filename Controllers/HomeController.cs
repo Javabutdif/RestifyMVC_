@@ -48,17 +48,24 @@ namespace Restify.Controllers
         }
         public async Task<IActionResult> LoginSubmit(string? email, string? pass)
         {
-            var landlord = await _context.Landlord
-                .FirstOrDefaultAsync(m => m.landlord_email == email && m.landlord_password == pass);
-            if (landlord == null)
+            if (email == "admin@gmail.com" && pass == "admin")
             {
-                return NotFound();
+                return RedirectToAction("Index", "Landlords");
             }
             else
             {
-                return RedirectToAction("Dashboard", "User");
-            }
 
+                var landlord = await _context.Landlord
+                    .FirstOrDefaultAsync(m => m.landlord_email == email && m.landlord_password == pass);
+                if (landlord == null)
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    return RedirectToAction("Dashboard", "User");
+                }
+            }
             
         }
 

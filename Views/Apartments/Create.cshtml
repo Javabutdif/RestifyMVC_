@@ -1,0 +1,48 @@
+﻿@model Restify.Models.Apartment
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Apartment</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="apartment_name" class="control-label"></label>
+                <input type="text" name="name" asp-for="apartment_name" class="form-control" />
+                <span asp-validation-for="apartment_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="apartment_details" class="control-label"></label>
+                <input type="text" name="details" asp-for="apartment_details" class="form-control" />
+                <span asp-validation-for="apartment_details" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="apartment_location" class="control-label"></label>
+                <input type="text" name="location" asp-for="apartment_location" class="form-control" />
+                <span asp-validation-for="apartment_location" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="apartment_image" class="control-label"></label>
+                <input type="file" name="image" asp-for="apartment_image" class="form-control" />
+                <span asp-validation-for="apartment_image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
