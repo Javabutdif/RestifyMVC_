@@ -7,6 +7,26 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\img\airbnb.jpg" />
+    <None Include="wwwroot\img\backgroundimg.jpg" />
+    <None Include="wwwroot\img\dione.jpg" />
+    <None Include="wwwroot\img\gene1.jpg" />
+    <None Include="wwwroot\img\jems.jpg" />
+    <None Include="wwwroot\img\jude.jpg" />
+    <None Include="wwwroot\img\living.jpg" />
+    <None Include="wwwroot\img\logo.jpeg" />
+    <None Include="wwwroot\img\logo1.png" />
+    <None Include="wwwroot\img\logo2.png" />
+    <None Include="wwwroot\img\main.jpeg" />
+    <None Include="wwwroot\img\mascot.png" />
+    <None Include="wwwroot\img\restifynobg.png" />
+    <None Include="wwwroot\img\restifywbg.jpg" />
+    <None Include="wwwroot\img\white.jpg" />
+    <None Include="wwwroot\img\white1.jpg" />
+    <None Include="wwwroot\img\yannie.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
       <PrivateAssets>all</PrivateAssets>

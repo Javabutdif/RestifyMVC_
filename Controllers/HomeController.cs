@@ -27,9 +27,24 @@ namespace Restify.Controllers
         {
             return View();
         }
+        public IActionResult Register()
+        {
+            return View();
+        }
         public IActionResult Login()
         {
             return View();
+        }
+        public IActionResult RegisterButton(string? fname, string?lname,string? email, string? contact , string? pass)
+        {
+            Landlord land = new Landlord { landlord_firstname = fname, landlord_lastname = lname, landlord_email = email, landlord_contact = contact, landlord_password = pass };
+            _context.Landlord.Add(land);
+
+            _context.SaveChanges();
+
+            TempData["SuccessMessage"] = "Registration successful. You can now login with your credentials.";
+
+            return RedirectToAction("Login", "Home");
         }
         public async Task<IActionResult> LoginSubmit(string? email, string? pass)
         {

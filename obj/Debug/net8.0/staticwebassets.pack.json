@@ -13,6 +13,74 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\airbnb.jpg",
+      "PackagePath": "staticwebassets\\img\\airbnb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\backgroundimg.jpg",
+      "PackagePath": "staticwebassets\\img\\backgroundimg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\dione.jpg",
+      "PackagePath": "staticwebassets\\img\\dione.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\gene1.jpg",
+      "PackagePath": "staticwebassets\\img\\gene1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\jems.jpg",
+      "PackagePath": "staticwebassets\\img\\jems.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\jude.jpg",
+      "PackagePath": "staticwebassets\\img\\jude.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\living.jpg",
+      "PackagePath": "staticwebassets\\img\\living.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\logo.jpeg",
+      "PackagePath": "staticwebassets\\img\\logo.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\img\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\logo2.png",
+      "PackagePath": "staticwebassets\\img\\logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\main.jpeg",
+      "PackagePath": "staticwebassets\\img\\main.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\mascot.png",
+      "PackagePath": "staticwebassets\\img\\mascot.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\restifynobg.png",
+      "PackagePath": "staticwebassets\\img\\restifynobg.png"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\restifywbg.jpg",
+      "PackagePath": "staticwebassets\\img\\restifywbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\white.jpg",
+      "PackagePath": "staticwebassets\\img\\white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\white1.jpg",
+      "PackagePath": "staticwebassets\\img\\white1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\img\\yannie.jpg",
+      "PackagePath": "staticwebassets\\img\\yannie.jpg"
+    },
+    {
       "Id": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

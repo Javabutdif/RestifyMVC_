@@ -1,0 +1,45 @@
+﻿
+     <div class="text-white rounded-4 p-3" style="text-align:center; padding-bottom:5%; background-color:#56327E; margin-left:35%; margin-right:35%;">
+        
+
+         <img src="/img/restifynobg.png" class="col-3 bg-white" style="border-radius: 25% 25% 25% 25%; "/>
+         <br />
+         <h1>Register</h1>
+         <br />
+
+        <form class="container justify-content-evenly text-wrap ">
+           
+        <div class="mb-3">
+          <label for="fname" class="form-label">First Name</label>
+          <input name="fname" type="text" id="fname" class="rounded-3 w-100 border-0 shadow form-control"/>
+        </div>
+        <div class="mb-3">
+            <label for="lname" class="form-label">Last Name</label>
+            <input name="lname" type="text" id="lname" class="rounded-3 w-100 border-0 shadow form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input name="email" type="email" id="email" class="rounded-3 w-100 border-0 shadow form-control" />
+        </div>
+          
+        <div class="mb-3">
+            <label for="contact" class="form-label">Contact</label>
+            <input name="contact" type="text" id="contact" class="rounded-3 w-100 border-0 shadow form-control" />
+        </div> 
+
+        <div class="mb-3">
+            <label for="pass" class="form-label">Password</label>
+            <input name="pass" type="password" id="pass" class="rounded-3 w-100 border-0 shadow form-control" />
+        </div>
+        <div class="mb-3">
+            <label for="conpass" class="form-label">Confirm Password</label>
+            <input name="conpass" type="password" id="conpass" class="rounded-3 w-100 border-0 shadow form-control" />
+        </div>
+        
+        <button asp-action="RegisterButton" asp-controller="Home" class="text-center btn btn-success mt-2">Register</button>
+        </form>
+      
+       
+         
+
+     </div>
