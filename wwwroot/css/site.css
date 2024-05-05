@@ -20,3 +20,61 @@ html {
 body {
   margin-bottom: 60px;
 }
+/* HEADING */
+
+body {
+    padding-block: 33px;
+    padding-inline: 33px;
+}
+
+.navbar {
+    background-color: #56327E; /* RestiFy Purple */
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0.1, 0.1, 0.1, 0.1); /* Add subtle shadow */
+    margin-bottom: 20px; /* Add bottom margin */
+    padding-top: 23px; /* Add subtop padding */
+    padding-bottom: 23px; /* Add subbottom padding */
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-style: italic;
+    margin-right: 20px; /* Add space on the right */
+}
+
+.nav-link {
+    padding: 10px 15px;
+    color: #BCA9E9;
+    border-radius: 20px; /* Add curvy edges */
+    transition: all 0.3s ease;
+}
+
+    .nav-link:hover {
+        background-color: #BCA9E9; /* RestiFy Purple on hover */
+        box-shadow: 0 2px 4px rgba(0.3, 0.3, 0.3, 0.3); /* Add more pronounced shadow */
+        transform: translateY(-3px); /* Add elevation */
+    }
+
+.navbar-toggler {
+    border: none;
+    background-color: transparent;
+    color: #BCA9E9;
+}
+
+    .navbar-toggler:hover {
+        color: #BCA9E9; /* Lighten color on hover */
+    }
+.card-img-top {
+    object-fit: cover;
+}
+.card-img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+}
+.same-size {
+    width: 10rem;
+    height: 10rem;
+    overflow: hidden;
+}

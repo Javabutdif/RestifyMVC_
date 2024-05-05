@@ -54,29 +54,56 @@ namespace Restify.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(string? name, string? details, string? location , IFormFile image)
+        public async Task<IActionResult> Create(string? name, string? details, string? location, IFormFile image)
         {
-            Apartment apartment = new Apartment();
             if (ModelState.IsValid)
             {
-                
-                if (image != null && image.Length > 0)
+                try
                 {
-                    using (var memoryStream = new MemoryStream())
+                    if (image != null && image.Length > 0)
                     {
-                        await image.CopyToAsync(memoryStream);
-                        apartment.apartment_image = memoryStream.ToArray();
+                        // Read the image file into a byte array
+                        using (var memoryStream = new MemoryStream())
+                        {
+                            await image.CopyToAsync(memoryStream);
+                            // Set the apartment image property to the byte array
+                            byte[] imageBytes = memoryStream.ToArray();
+
+                            // Create a new apartment object and set its properties
+                            Apartment apartment = new Apartment
+                            {
+                                apartment_name = name,
+                                apartment_details = details,
+                                apartment_location = location,
+                                apartment_image = imageBytes
+                            };
+
+                            // Add the apartment to the context
+                            _context.Add(apartment);
+                            // Save changes to the database
+                            await _context.SaveChangesAsync();
+                            // Redirect to the index action method
+                            return RedirectToAction(nameof(Index));
+                        }
                     }
-                    apartment.apartment_name = name;
-                    apartment.apartment_details = details;
-                    apartment.apartment_location = location;
+                    else
+                    {
+                        // Handle the case where no image is provided
+                        ModelState.AddModelError("image", "Please select an image file.");
+                    }
                 }
-                _context.Add(apartment);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                catch (Exception ex)
+                {
+                    // Log the exception or handle it appropriately
+                    ModelState.AddModelError("", "An error occurred while saving the apartment information.");
+                    // Return the view with the model state
+                    return View();
+                }
             }
-            return View(apartment);
+            // If the model state is not valid, return the view with the apartment object
+            return View();
         }
+
 
         // GET: Apartments/Edit/5
         public async Task<IActionResult> Edit(int? id)

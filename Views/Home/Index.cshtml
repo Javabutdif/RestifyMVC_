@@ -2,7 +2,107 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div class=" d-flex ">
+    <div class="container">
+        <div class="card mb-3 p-2" style="width: 30rem;">
+         
+            <div class="card-body">
+                <p class="col-9 text-black" style="font-size:20px; font-weight: bold; font-style: italic;
+                         text-justify:inter-character">
+                    A platform that allows you to easily browse rental properties with just a single click."
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Login" asp-controller="Home" style="background-color:#56327E" class="btn text-white ">Browse</a>
+            </div>
+        </div>
+        <div class="card mb-2 p-2" style="width: 30rem;">
+
+            <div class="card-body" >
+                <p class="col-9 text-black" style="font-size:20px; font-weight: bold; font-style: italic;
+                            text-justify:inter-character">
+                    Want to advertise your rental assets?"
+                </p>
+            </div>
+            <div class="card-footer">
+                <a asp-action="Login" asp-controller="Home" style="background-color:#56327E" class="btn text-white ">Get Started</a>
+            </div>
+        </div>
+
+
+      
+
+ 
+    </div>
+    <br>
+</div>
+<hr style="height:2px; border-width: 0; color:black; background-color:black" />
+
+<h4 class="mb-4" style="color:#56327E; font-size:80px; text-align:center;">About</h4>
+<div class="card mb-2 p-2 py-3" style="width: 40rem; background-color:#56327E">
+
+    <div class="card-body">
+        <p class="col-9 text-white" style="font-size:20px; font-style: italic;
+                text-justify:inter-character">
+            "Rent Me is a user-friendly platform designed to simplify the process of finding and renting apartments. Our website offers a seamless experience, allowing users to easily search for their ideal apartment and complete the rental process with just a few clicks. With a wide range of listings and comprehensive search features, Rent Me ensures that users can efficiently find the perfect place to rent, making the entire process convenient and hassle-free."
+        </p>
+    </div>
+    
+</div>
+<hr style="height:2px; border-width: 0; color:black; background-color:black" />
+
+<div class="container text-center py-2">
+    <h4 class="mb-3" style="color:#56327E; font-size:50px; text-align:center;">Meet the Team</h4>
+
+    <div class="d-flex gap-2 flex-row">
+        <div class="card " style="width: 20rem;">
+            <h5 class=" card-header text-white " style="background-color:#56327E">Project Lead/Developer</h5>
+            <div class="card-image-container">
+            <img class="card-img-top same-size" src="/img/jems.jpg" alt="Jems">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Anton James Genabio</h4>
+            </div>
+        </div>
+        <div class="card " style="width: 20rem;">
+            <h5 class=" card-header text-white " style="background-color:#56327E">Quality and Assurance</h5>
+            <div class="card-image-container">
+                <img class="card-img-top same-size" src="/img/jude.jpg" alt="Jude">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Jude Jefferson Sandalo</h4>
+            </div>
+        </div>
+        <div class="card " style="width: 20rem;">
+            <h5 class=" card-header text-white " style="background-color:#56327E">Frontend Developer</h5>
+            <div class="card-image-container">
+                <img class="card-img-top same-size" src="/img/gene1.jpg" alt="Gene">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Generoso Gastardo Jr.</h4>
+            </div>
+        </div>
+        <div class="card " style="width: 20rem;">
+            <h5 class=" card-header text-white " style="background-color:#56327E">User Interface/User Experience</h5>
+            <div class="card-image-container">
+                <img class="card-img-top same-size" src="/img/yannie.jpg" alt="Yannie">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Yannie Carsido</h4>
+            </div>
+        </div>
+        <div class="card " style="width: 20rem;">
+            <h5 class=" card-header text-white " style="background-color:#56327E">Database Administrator</h5>
+            <div class="card-image-container">
+                <img class="card-img-top same-size" src="/img/dione.jpg" alt="Dione">
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">Dione Louis Nipaya</h4>
+            </div>
+        </div>
+
+
+
+
+    </div>
 </div>

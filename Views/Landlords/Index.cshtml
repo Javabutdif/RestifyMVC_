@@ -16,28 +16,20 @@
 </head>
 <body>
 
-<h1>Index</h1>
+<h1>Registered Landlords</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
 
-<table class="table table-responsive">
-    <thead>
+<table id="landlords" class="table table-responsive">
+        <thead style="background-color:#56327E">
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.landlord_firstname)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.landlord_lastname)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.landlord_email)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.landlord_contact)
-            </th>
-            <th></th>
+            <th class="text-white">First Name</th>
+            <th class="text-white">Last Name</th>
+            <th class="text-white">Email</th>
+            <th class="text-white">Contact</th>
+            <th class="text-white">Action</th>
         </tr>
     </thead>
     <tbody>
@@ -57,13 +49,26 @@
             </td>
  
             <td>
-                <a asp-action="Edit" asp-route-id="@item.landlord_id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.landlord_id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.landlord_id">Delete</a>
+                <a class="btn btn-secondary" asp-action="Edit" asp-route-id="@item.landlord_id">Edit</a> |
+                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.landlord_id">Details</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.landlord_id">Delete</a>
             </td>
         </tr>
 }
     </tbody>
 </table>
+    <script>
+        let myDataTable = new DataTable('#landlords', {
+            layout: {
+                topStart: {
+                    buttons: ['csv', 'excel', 'pdf', 'print']
+                }
+
+            }
+
+
+        });
+    </script>
+
 </body>
 </html>
