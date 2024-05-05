@@ -251,3 +251,5 @@ C:\Users\james\OneDrive\Desktop\RestifyMVC\Restify\obj\Debug\net8.0\Restify.pdb
 C:\Users\james\OneDrive\Desktop\RestifyMVC\Restify\obj\Debug\net8.0\Restify.genruntimeconfig.cache
 C:\Users\james\OneDrive\Desktop\RestifyMVC\Restify\obj\Debug\net8.0\ref\Restify.dll
 C:\Users\james\OneDrive\Desktop\RestifyMVC\Restify\obj\Debug\net8.0\Restify.sourcelink.json
+C:\Users\james\OneDrive\Desktop\RestifyMVC\Restify\bin\Debug\net8.0\package-lock.json
+C:\Users\james\OneDrive\Desktop\RestifyMVC\Restify\bin\Debug\net8.0\package.json
