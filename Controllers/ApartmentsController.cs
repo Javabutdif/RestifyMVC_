@@ -19,11 +19,20 @@ namespace Restify.Controllers
             _context = context;
         }
 
-        // GET: Apartments
+
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Apartment.ToListAsync());
+            var apartments = await _context.Apartment.ToListAsync();
+
+            // Convert byte arrays to base64 strings for image display
+            foreach (var apartment in apartments)
+            {
+                apartment.apartment_base = Convert.ToBase64String(apartment.apartment_image);
+            }
+
+            return View(apartments);
         }
+
 
         // GET: Apartments/Details/5
         public async Task<IActionResult> Details(int? id)

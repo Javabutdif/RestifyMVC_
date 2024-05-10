@@ -2,6 +2,7 @@
 
 @{
     ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
 }
 
 <h1>Index</h1>
@@ -39,9 +40,10 @@
             <td>
                 @Html.DisplayFor(modelItem => item.apartment_location)
             </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.apartment_image)
-            </td>
+                <td>
+                    <img class="w-50 h-50" src="data:image/jpeg;base64,@Convert.ToBase64String(item.apartment_image)" alt="Apartment Image" />
+                </td>
+
             <td>
                 <a asp-action="Edit" asp-route-id="@item.apartment_id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.apartment_id">Details</a> |

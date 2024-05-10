@@ -12,7 +12,8 @@ namespace Restify.Models
          public string? apartment_details { get; set; }
         public string? apartment_location { get; set; }
         public byte[]? apartment_image { get; set; }
-         
-          
+        public string? apartment_base { get; set; }
+
+
     }
 }

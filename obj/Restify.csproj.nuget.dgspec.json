@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Restify.csproj": {}
+    "C:\\Users\\tt128\\Desktop\\Elnet\\Restify.csproj": {}
   },
   "projects": {
-    "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Restify.csproj": {
+    "C:\\Users\\tt128\\Desktop\\Elnet\\Restify.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Restify.csproj",
+        "projectUniqueName": "C:\\Users\\tt128\\Desktop\\Elnet\\Restify.csproj",
         "projectName": "Restify",
-        "projectPath": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\Restify.csproj",
-        "packagesPath": "C:\\Users\\james\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\james\\OneDrive\\Desktop\\RestifyMVC\\Restify\\obj\\",
+        "projectPath": "C:\\Users\\tt128\\Desktop\\Elnet\\Restify.csproj",
+        "packagesPath": "C:\\Users\\tt128\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tt128\\Desktop\\Elnet\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\james\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\tt128\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -91,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

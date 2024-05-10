@@ -59,7 +59,9 @@ namespace Restify.Controllers
                     .FirstOrDefaultAsync(m => m.landlord_email == email && m.landlord_password == pass);
                 if (landlord == null)
                 {
-                    return NotFound();
+                    TempData["invalidLogin"] = "Incorrect email and password.";
+
+                    return RedirectToAction("Login", "Home");
                 }
                 else
                 {
