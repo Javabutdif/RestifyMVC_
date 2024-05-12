@@ -5,7 +5,8 @@ CREATE TABLE Apartment(
  apartment_name nvarchar(100) not null,
  apartment_details nvarchar(100) not null,
  apartment_location nvarchar(100) not null,
- apartment_image varbinary(max)
+ apartment_image varbinary(max),
+ apartment_base nvarchar(100) not null
 
 );
 CREATE TABLE Landlord(

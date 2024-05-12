@@ -17,99 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Restify
 build_property.RootNamespace = Restify
-build_property.ProjectDir = C:\Users\tt128\Desktop\Elnet\
+build_property.ProjectDir = C:\Users\james\source\repos\RestifyMVC_\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\tt128\Desktop\Elnet
+build_property.MSBuildProjectDirectory = C:\Users\james\source\repos\RestifyMVC_
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Apartments/Create.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Apartments/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Apartments/Delete.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Apartments/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Apartments/Details.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Apartments/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Apartments/Edit.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Apartments/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Apartments/Index.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Apartments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Home/Index.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Home/Login.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Home/Privacy.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Home/Register.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Home/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Landlords/Create.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Landlords/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGxvcmRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Landlords/Delete.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Landlords/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGxvcmRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Landlords/Details.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Landlords/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGxvcmRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Landlords/Edit.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Landlords/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGxvcmRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Landlords/Index.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Landlords/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZGxvcmRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Shared/Error.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Shared/_LayoutUser.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Shared/_LayoutUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/User/Dashboard.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/User/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/_ViewImports.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/_ViewStart.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tt128/Desktop/Elnet/Views/Shared/_Layout.cshtml]
+[C:/Users/james/source/repos/RestifyMVC_/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7s3jmrhhvh

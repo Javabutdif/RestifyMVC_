@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "n+vHhZUxa2o5e65f/YDu7EAnEo/DUswbNkfpBLiVVaE=",
+  "Hash": "VTbp/xDPD7B7M/97xTzxhDV+X05u4TrzSsHa82iI3qg=",
   "Source": "Restify",
   "BasePath": "_content/Restify",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Restify\\wwwroot",
       "Source": "Restify",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\james\\.nuget\\packages\\bootstrap\\5.3.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restify.styles.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restify.styles.css",
       "SourceId": "Restify",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Restify",
       "RelativePath": "Restify.styles.css",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\Desktop\\Elnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restify.styles.css"
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restify.styles.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restify.bundle.scp.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restify.bundle.scp.css",
       "SourceId": "Restify",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Restify",
       "RelativePath": "Restify.bundle.scp.css",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\tt128\\Desktop\\Elnet\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restify.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restify.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\css\\site.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\favicon.ico",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\airbnb.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\airbnb.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/airbnb.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\airbnb.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\backgroundimg.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\backgroundimg.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/backgroundimg.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\backgroundimg.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\dione.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\dione.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/dione.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\dione.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\gene1.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\gene1.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/gene1.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gene1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\jems.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\jems.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/jems.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jems.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\jude.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\jude.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/jude.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jude.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\living.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\living.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/living.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\living.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\logo.jpeg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\logo.jpeg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/logo.jpeg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.jpeg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\logo1.png",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\logo1.png",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/logo1.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo1.png"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\logo2.png",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\logo2.png",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/logo2.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo2.png"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\main.jpeg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\main.jpeg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/main.jpeg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main.jpeg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\mascot.png",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\mascot.png",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/mascot.png",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mascot.png"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\restifynobg.png",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\restifynobg.png",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/restifynobg.png",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\restifynobg.png"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\restifywbg.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\restifywbg.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/restifywbg.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\restifywbg.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\white.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\white.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/white.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\white.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\white1.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\white1.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/white1.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\white1.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\img\\yannie.jpg",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\img\\yannie.jpg",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "img/yannie.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yannie.jpg"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\js\\site.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Restify",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\tt128\\Desktop\\Elnet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\james\\source\\repos\\RestifyMVC_\\wwwroot\\",
       "BasePath": "_content/Restify",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

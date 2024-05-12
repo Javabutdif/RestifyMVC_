@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MvcApartment.Data;
 using Restify.Models;
@@ -63,18 +58,18 @@ namespace Restify.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(string? name, string? details, string? location, IFormFile image)
+        public async Task<IActionResult> Create(string? name, string? details, string? location, IFormFile? apartment_images)
         {
             if (ModelState.IsValid)
             {
                 try
                 {
-                    if (image != null && image.Length > 0)
+                    if (apartment_images != null && apartment_images.Length > 0)
                     {
                         // Read the image file into a byte array
                         using (var memoryStream = new MemoryStream())
                         {
-                            await image.CopyToAsync(memoryStream);
+                            await apartment_images.CopyToAsync(memoryStream);
                             // Set the apartment image property to the byte array
                             byte[] imageBytes = memoryStream.ToArray();
 
